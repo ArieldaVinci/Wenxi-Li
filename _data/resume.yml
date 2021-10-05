@@ -1,0 +1,107 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Wenxi Li"
+  label: "Data Scientist"
+  picture: "https://placehold.it/240x240"
+  email: "arielliwenxi@gmail.com"
+  phone: "(520) 2921504"
+  website: "https://piedpiper.com"
+  summary: >
+    Wenxi comes from Harbin, China.
+    She has earned her Bachelor of Engineering degree at Tongji University - one of the top universities in China, and
+    Master of Engineering degree at UC Berkeley( Go Bears!)
+    She has a solid background in Machine Learning and statistics, which supports her to pursue her passion in data science.
+    She deeply believe data will change the world and she'd love to be one star in the galaxy.
+
+  location:
+    address: "5607 Silk Tree Dr"
+    postalCode: "MD 20737"
+    city: "Riverdale Park"
+    countryCode: "US"
+    region: "Maryland"
+  profiles:
+    - network: "LinkedIn"
+      username: "Wenxi Li"
+      url: "https://www.linkedin.com/in/wenxi-li/"
+work:
+  - company: "BLEND360"
+    position: "Data Scientist"
+    website: "blend360.com"
+    startDate: "2021-04"
+    endDate: ""
+    summary: >
+      BLEND360 is one of the 500/5000 Fastest Growing Companies in America named by Inc. Magazine.
+      As a consulting company, its vision is to build a company of world-class people that helps clients optimize
+      business performance through data, technology and analytics.
+    highlights:
+      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
+      - "Successfully won Techcrunch Disrupt"
+      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+
+education:
+  - institution: "University of California, Berkeley"
+    area: "Industrial Engineering and Operations Research"
+    studyType: "Master of Engineering"
+    startDate: "2019-08-15"
+    endDate: "2020-12-20"
+    gpa: "3.92"
+    courses:
+      - "DB1101 - Basic SQL"
+      - "CS2011 - Java Introduction"
+
+  - institution: "Tongji University"
+    area: "Transportation Engineering"
+    studyType: "Bachelor of Engineering"
+    startDate: "2014-09-01"
+    endDate: "2019-07-15"
+    gpa: "90"
+    courses:
+      - "DB1101 - Basic SQL"
+      - "CS2011 - Java Introduction"
+
+awards:
+  - title: "Digital Compression Pioneer Award"
+    date: "2014-11-01"
+    awarder: "Techcrunch"
+    summary: "There is no spoon."
+publications:
+  - name: "Video compression for 3d media"
+    publisher: "Hooli"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Programming"
+    level: "Master"
+    keywords:
+      - "Python"
+      - "Java"
+      - "Matlab"
+      - "R"
+  - name: "Machine Learning Algorithms"
+    level: "Master"
+    keywords:
+      - "Linear/ Logistics Regression"
+      - ""
+      - "GIF"
+languages:
+  - language: "English"
+    fluency: "Fluent"
+  - language: "Mandarin"
+    fluency: "Native speaker"
+  - language: "Cantonese"
+    fluency: "Fluent"
+  - language: "French"
+    fluency: "Intermidiate"
+interests:
+  - name: "Wildlife"
+    keywords:
+      - "Ferrets"
+      - "Unicorns"
+references:
+  - name: "Erlich Bachman"
+    reference: >
+      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+      Company proved that he will be a valuable addition to any company.
