@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   Wenxi, data scientist

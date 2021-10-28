@@ -84,8 +84,8 @@ skills:
     level: "Master"
     keywords:
       - "Linear/ Logistics Regression"
-      - ""
-      - "GIF"
+      - "NLP"
+      - "LSTM"
 languages:
   - language: "English"
     fluency: "Fluent"
@@ -94,12 +94,12 @@ languages:
   - language: "Cantonese"
     fluency: "Fluent"
   - language: "French"
-    fluency: "Intermidiate"
+    fluency: "Intermediate"
 interests:
-  - name: "Wildlife"
+  - name: "Sports"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "Tennis"
+      - "Yoga"
 references:
   - name: "Erlich Bachman"
     reference: >
