@@ -8,30 +8,26 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Version 9.1 provides minor design changes, new features, and closes multiple issues.
+  This article has everything you need for linear regression!
 invert_sidebar: true
 ---
 
-# What's New in Hydejack 9.1?
+# Linear Regression in Machine Learning
 
-What's New in Hydejack 9.1?
+Linear Regression in Machine Learning
 
 * toc
 {:toc}
 
 
-## Stripe-ified Design
-Most elements now have rounded borders, making the design look more modern (dare I say "Stripe-ified") than ever before. 
+## Assumptions
+Everyone is using linear regression, but only a few are taking it seriously.
+What are the basic assumptions when using LR? This is a question frequently asked in DS interviews but rarely responded with great answers.
 
-The goal of Hydejack was always to provide a theme that looks "designed" combined the amenities of a typical Jekyll theme for coders.
-This is an important step in maintaining this goal.
-
-At the same time, I'm introducing nerdy elements like [breadcrumbs](#serp-breadcrumbs), that are almost ornamental in nature.
-You wouldn't find these on other Stripe-like designs, but I think they are appealing to developer types like myself. 
-Like most additions to Hydejack, they can be disabled via configuration. 
+![Screenshot](assets/img/blog/Picture1.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
 
-## Inverted Sidebars
+## Loss Function
 The colors on the sidebar can now be inverted to allow brighter sidebar images. This can be enabled per-page in the fort matter:
 
 ```yml
@@ -39,7 +35,7 @@ invert_sidebar: true
 ```
 
 
-## Code Block Headers
+## Algorithms to solve
 Code blocks can now have headers:
 
 ~~~js
@@ -58,7 +54,7 @@ Code blocks with and without headers now also come with a copy button.
 In the case of header-less code blocks, the button only shows on hover to prevent potential overlap.
 
 
-## Resume Download Buttons
+## Evaluation of Linear Regression
 Resumes can now have download buttons:
 
 ![Download Buttons](/assets/img/blog/9.1.0-3.png){:.border.lead width="1776" height="258" loading="lazy"}
